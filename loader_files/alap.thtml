@@ -1,0 +1,196 @@
+<section class="section section-md bg-gray-dark" id="alaporasjegyzetek" data-type="anchor">
+        <div class="container text-center">
+          <br><br><br>
+          <h2>Alapórás jegyzetek</h2>
+          <br>
+  <div id="alapjegyzetekshowhide" class="rem-collapse">
+            <div class="body text-left style='margin-left: 40px;'">
+              <ul class="list-marked-3">
+                <li><b><font color="#FFFFFF"><u>1. RENDSZERTAN</u></font></b>
+                  <ul class="list-marked-3">
+                    <li><b><font color="#FFFFFF">1.1 Bevezetés, vírusok, prokarióták</font></b>
+                      <ul class="list-marked-3">
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Rendszerezesbevezetes-alap.pdf">A rendszertan alapjai</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Virusok-alap.pdf">Vírusok</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Prokariotak-alap.pdf">Prokarióták</a></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">1.2 Gombák, zuzmók</font></b>
+                      <ul class="list-marked-3">
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Gombak-alap.pdf">Gombák</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Zuzmok-alap.pdf">Zuzmók</a><br></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">1.3 Növénytan</font></b>
+                      <ul class="list-marked-3">
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Moszatok-alap.pdf">Algák</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Mohak-alap.pdf">Mohák</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Harasztok-alap.pdf">Harasztok</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Nyitvatermok-alap.pdf">Nyitvatermők</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Zarvatermok-alap.pdf">Zárvatermők</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Novenyiszovetek.pdf">Növényi szövetek</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Novenyiszervek.pdf">Növények szervei</a></li>
+                        <li><a target="_blank" href="http://bioszfera.com/downloads/Novenytan-zanzasitva.pdf">Zanzásított növénytan</a></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">1.4 Állattan</font></b>
+                      <ul class="list-marked-3">
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Egysejtuek-alap.pdf">Egysejtűek</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Szivacsok-alap.pdf">Szivacsok</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Csalanozok.pdf">Csalánozók</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Laposfergek-alap.pdf">Laposférgek</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Fonalfergek.pdf">Fonálférgek</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Gyurusfergek-alap.pdf">Gyűrűsférgek</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Soklabuak-alap.pdf">Soklábúak</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Rakok.pdf">Rákok</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Rovarok-alap.pdf">Rovarok</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Pokszabasuak.pdf">Pókszabásúak</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Puhatestuek-alap.pdf">Puhatestűek</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Halak-alap.pdf">Halak</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Keteltuek-alap.pdf">Kétéltűek</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Hullok-alap.pdf">Hüllők</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Madarak-alap.pdf">Madarak</a></font></li>
+                        <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Emlosok-alap.pdf">Emlősök</a></font></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                
+                <li><b><font color="#FFFFFF"><u>2. ETOLÓGIA</u></font></b>
+                  <ul class="list-marked-3">
+                    <li><a target="_blank" href="http://bioszfera.com/downloads/Etologia-alap.pdf">Etológia</a><br></li>
+                  </ul>
+                </li>
+                
+                <li><b><font color="#FFFFFF"><u>3. ÖKOLÓGIA</u></font></b>
+                  <ul class="list-marked-3">
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-bevezetes-alap.pdf">Bevezetés</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-talaj-alap.pdf">Talaj</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-levego-alap.pdf">Levegő</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-viz-alap.pdf">Víz</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-napsugarzas-alap.pdf">Napsugárzás</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-populaciok-alap.pdf">Populációk</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-tarsulasok-alap.pdf">Társulások</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-okoszisztema-alap.pdf">Ökoszisztéma</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-fas-alap.pdf">Hazai fás társulások</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Hazaifatlantarsulasok-alap.pdf">Hazai fátlan társulások</a></font></li>
+                    <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Bioszferavedelme.html">Bioszféra védelme</a></font></li>
+                  </ul>
+                </li>
+
+                <li><b><font color="#FFFFFF"><u>4. SEJTBIOLÓGIA</u></font></b>
+                  <ul class="list-marked-3">
+                    <li><b><font color="#FFFFFF">4.1 A sejtek kémiai felépítése</font></b>
+                      <ul class="list-marked-3">                      
+                        <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Zanzasitottmolekulak.pdf">Biogén elemek, víz, lipidek, szénhidrátok, fehérjék, nukleinsavak</a><br></font></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">4.2 A sejtek anyagcsere-folyamatai</font></b>
+                      <ul class="list-marked-3">
+                        <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Asszimilacio-alap.pdf">Asszimiláció</a></font></li>
+                        <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Disszimilacio-alap.pdf">Disszimiláció</a></font></li>
+                        <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Molekularisgenetika-alap.pdf">Molekuláris genetika</a></font></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">4.3 A sejtek felépítése, működése</font></b>
+                      <ul class="list-marked-3">
+                        <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Biomembranok-alap.pdf">A biológiai membránok, transzportfolyamatok</a></font></li>
+                        <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Endomembranok-alap.pdf">Endomembránrendszer</a></font></li>
+                        <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Mitokondrium-plasztisz-alap.pdf">Mitokondrium, színtest</a></font></li>
+                        <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Sejtmag-alap.pdf">Sejtmag, sejtciklus</a></font></li>
+                        <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Sejtva.html">Sejtváz</a><br></font></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                
+                <li><b><font color="#FFFFFF"><u>5. AZ ÁLLATI ÉS EMBERI SZÖVETEK</u></font></b>
+                  <ul class="list-marked-3">
+                    <li><font color="#FF6600"><a target="_blank" href="http://bioszfera.com/downloads/emberiszovetek.pdf">Emberi szövetek</a><br></font></li>
+                  </ul>
+                </li>
+
+                <li><b><font color="#FFFFFF"><u>6. AZ EMBER ÖNFENNTARTÓ MŰKÖDÉSEI</u></font></b>
+                  <ul class="list-marked-3">
+                    <li><b><font color="#FFFFFF">6.1 Az ember emésztőszervrendszere</font></b>
+                      <ul class="list-marked-3">
+                        <li><font color="#006666"><a target="_blank" href="http://bioszfera.com/downloads/Emesztes-alap.pdf">Az ember emésztőszervrendszere</a></font></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">6.2 Az ember légzőszervrendszere</font></b>
+                      <ul class="list-marked-3">
+                        <li><font color="#3333FF"><a target="_blank" href="http://bioszfera.com/downloads/Alap-legzes.pdf">Az ember légzőszervrendszere és egészségtana</a></font></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">6.3 Az emberi keringés szervrendszere</font></b>
+                      <ul class="list-marked-3">
+                        <li><font color="#CC0000"><a target="_blank" href="http://bioszfera.com/downloads/Ver-alap.pdf">A vér</a></font></li>
+                        <li><font color="#CC0000"><a target="_blank" href="http://bioszfera.com/downloads/Sziv-alap.pdf">A szív</a></font></li>
+                        <li><font color="#CC0000"><a target="_blank" href="http://bioszfera.com/downloads/Nyirokrendszer-alap.pdf">A nyirokrendszer</a></font></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">6.4 Az ember kiválasztó-szervrendszere</font></b>
+                      <ul class="list-marked-3">
+                        <li><font color="#FFCC00"><a target="_blank" href="http://bioszfera.com/downloads/Kivalasztas-alap.pdf">Az ember kiválasztó-szervrendszere és egészségtana</a></font></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">6.5 A mozgás szervrendszere</font></b>
+                      <ul class="list-marked-3">
+                        <li><font color="#009999"><a target="_blank" href="http://bioszfera.com/downloads/Mozgas-alap.pdf">A mozgás szervrendszere és egészségtana</a></font></li>
+                      </ul>
+                    </li>
+                    <li><b><font color="#FFFFFF">6.6 Az emberi bőr</font></b>
+                      <ul class="list-marked-3">
+                        <li><font color="#FF9966"><a target="_blank" href="http://bioszfera.com/downloads/Bor.pdf">Az emberi bőr és egészségtana</a></font></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                
+                <li><b><font color="#FFFFFF"><u>7. AZ EMBER ÖNSZABÁLYOZÓ MŰKÖDÉSEI</u></font></b>
+                  <ul class="list-marked-3">
+                    <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Hormon-alap.pdf">Hormonális szabályozás</a></font></li>
+                    <li><font color="#FFFFFF">Idegi szabályozás</font>
+                      <ul class="list-marked-3">
+                        <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Idegszovet-alap.pdf">Az idegszövet</a></font></li>
+                        <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Gerincvelo-alap.pdf">A gerincvelő felépítése és működése</a></font></li>
+                        <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Agytorzs-alap.pdf">Az agytörzs felépítése és működése</a></font></li>
+                        <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Koztiagy-nagyagy-alap.pdf">A köztiagy és a nagyagy felépítése és működése</a></font></li>
+                        <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Idegrendszermukodese-alap.pdf">Az idegrendszer vegetatív, érző és mozgató működése</a></font></li>
+                      </ul>
+                    </li>                      
+                    <li><font color="#FFFFFF">Az érzékszervek felépítése és működése</font>
+                      <ul class="list-marked-3">
+                        <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Szem-alap.pdf">A látás</a></font></li>
+                        <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Ful-alap.pdf">A hallás</a></font></li>
+                        <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Szaglas-izerzes-bor-alap.pdf">A szaglás és ízérzékelés</a><br></font></li>
+                      </ul>
+                    </li>
+                    <li><font color="#FFFFFF">Genetikai szabályozás</font>
+                      <ul class="list-marked-3">
+                        <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Genetika-alap.pdf">A genetika alapjai</a></font></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                
+                <li><b><font color="#FFFFFF"><u>8. ÖNREPRODUKCIÓ</u></font></b>
+                  <ul class="list-marked-3">
+                    <li><font color="#993333"><a target="_blank" href="http://bioszfera.com/downloads/Szaporodas-alap.pdf">Az ember szaporító szervrendszere</a></font></li>
+                    <li><font color="#993333"><a target="_blank" href="http://bioszfera.com/downloads/szexualisuton.pdf">Szexuális úton terjedő betegségek</a></font></li>
+                    <li><font color="#993333"><a target="_blank" href="http://bioszfera.com/downloads/Egyedfejlodes-alap.pdf">Az ember egyedfejlődése</a></font></li>
+                  </ul>
+                </li>
+
+                <li><b><font color="#FFFFFF"><u>9. AZ EVOLÚCIÓ</u></font></b>
+                  <ul class="list-marked-3">
+                    <li><font color="#003333"><a target="_blank" href="http://bioszfera.com/downloads/Populaciogenetika.html">Populációgenetika, evolúciógenetika</a></font></li>
+                    <li><font color="#003333"><a target="_blank" href="http://bioszfera.com/downloads/evoluci.html">Fizikai, kémiai, biológiai evolúció</a></font></li>
+                    <li><font color="#003333">Az ember evolúciója</font></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+</div>
+        </div>
+      </section>

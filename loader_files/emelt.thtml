@@ -1,0 +1,221 @@
+ <section class="section section-md bg-gray-dark" id="emeltszintujegyzetek" data-type="anchor">
+        <div class="container text-center">
+          <br><br><br>
+          <h2>Emelt szintű jegyzetek</h2>
+          <br>
+  <div id="jegyzetekshowhide" class="rem-collapse">
+  <br>
+          <div class="body text-left style='margin-left: 40px;'">
+            <ul class="list-marked-3">
+              <li><b><font color="#FFFFFF"><u>1. RENDSZERTAN</u></font></b>
+                <ul class="list-marked-3">
+                  <li><b><font color="#FFFFFF">1.1 Bevezetés, vírusok, prokarióták</font></b>
+                    <ul class="list-marked-3">
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Rendszerezesbevezetes-fakt.pdf">A rendszertan alapjai</a></li>
+<!--                      <li><a onclick="window.open('http://bioszfera.com/http://bioszfera.com/downloads/Rendszerezesbevezetes-fakt.pdf', ''); return false" href="javascript:void(0);">A rendszertan alapjai</a></li> -->
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Virusok-fakt.pdf">Vírusok</a></li>
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Prokariota-fakt.pdf">Prokarióták</a></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">1.2 Gombák, zuzmók<br></font></b>
+                    <ul class="list-marked-3">
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Gombak-fakt.pdf">Gombák</a></li>
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Zuzmok-fakt.pdf">Zuzmók</a><br></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">1.3 Növénytan</font></b>
+                    <ul class="list-marked-3">
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Moszatok-fakt.pdf">Algák</a></li>
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Mohak-fakt.pdf">Mohák</a></li>
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Harasztok-fakt.pdf">Harasztok</a></li>
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Nyitvatermok-fakt.pdf">Nyitvatermők</a></li>
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Zarvatermok-fakt.pdf">Zárvatermők</a></li>
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Novenyiszovetek-fakt.pdf">Növényi szövetek</a></li>
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Novenyiszervek-fakt.pdf">Növények szervei</a></li>
+                      <li><a target="_blank" href="http://bioszfera.com/downloads/Novenyelettan-fakt.pdf">Növényi életműködések</a></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">1.4 Állattan</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Allatiegysejtuek-fakt.pdf">Egysejtűek</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Szivacsok-fakt.pdf">Szivacsok</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Laposfergek-fakt.pdf">Laposférgek</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Gyurusfergek-fakt.pdf">Gyűrűsférgek</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Rovarok-fakt.pdf">Rovarok</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Puhatestuek-fakt.pdf">Puhatestűek</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Halak-fakt.pdf">Halak</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Tetrapoda-fakt.pdf">Kétéltűek</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Hullok-fakt.pdf">Hüllők</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Madarak-fakt.pdf">Madarak</a></font></li>
+                      <li><font color="#003366"><a target="_blank" href="http://bioszfera.com/downloads/Emlosok-fakt.pdf">Emlősök</a></font></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            
+              <li><b><font color="#FFFFFF"><u>2. ETOLÓGIA</u></font></b>
+                <ul class="list-marked-3">
+                  <li><font color="#FFFFFF"><a target="_blank" href="http://bioszfera.com/downloads/Etologia-fakt.pdf">Etológia</a></font></li>
+                </ul>
+              </li>
+
+              <li><b><font color="#FFFFFF"><u>3. ÖKOLÓGIA</u></font></b>
+                <ul class="list-marked-3">
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-bevezetes-fakt.pdf">Bevezetés</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-talaj-fakt.pdf">Talaj</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-levego-fakt.pdf">Levegő</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-viz-fakt.pdf">Víz</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-napsugarzas-fakt.pdf">Napsugárzás</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-populaciok-fakt.pdf">Populációk</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-tarsulas-fakt.pdf">Társulások</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-okoszisztema-fakt.pdf">Ökoszisztéma</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-hazaifas-fakt.pdf">Hazai fás társulások</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-fatlan-fakt.pdf">Hazai fátlan társulások</a><br></font>
+                    <ul class="list-marked-3">
+                      <li><a target="_blank" href="http://hu.wikipedia.org/wiki/Magyarország_állatvilága">Magyarország állatvilága</a></li>
+                      <li><a target="_blank" href="http://www.terra.hu/haznov/html/hunidx.html">Magyarország növényvilága</a><br></li>
+                    </ul>
+                  </li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Oko-bioszferavedelme.pdf">Bioszféra védelme</a></font></li>
+                  <li><font color="#006633"><a target="_blank" href="http://bioszfera.com/downloads/Okologiaessze.pdf">Esszé feladatok</a><br></font></li>
+                </ul>
+              </li>
+
+              <li><b><font color="#FFFFFF"><u>4. SEJTBIOLÓGIA</u></font></b>
+                <ul class="list-marked-3">
+                  <li><b><font color="#FFFFFF">4.1 A sejtek kémiai felépítése</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Biogenelemek-viz-lipidek-fakt.pdf">Biogén elemek, víz, lipidek</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Szenhidratok-fakt.pdf">Szénhidrátok</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Feherjek-fakt.pdf">Fehérjék</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Nukleinsavak-fakt.pdf">Nukleinsavak</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Gyakorlatok.html">Gyakorlatok</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Kromatografia.pdf">Kromatográfia</a></font></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">4.2 A sejtek anyagcsere-folyamatai</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Asszimilacio-fakt.pdf">Asszimiláció</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Disszimilacio-fakt.pdf">Disszimiláció</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Molekularisgenetika-fakt.pdf">Molekuláris genetika</a></font></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">4.3 A sejtek felépítése, működése</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Biomembranok-fakt.pdf">A biológiai membránok, transzportfolyamatok</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Endomembranok-fakt.pdf">Endomembránrendszer</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Mitokondrium-plasztisz-fakt.pdf">Mitokondrium, színtest</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Sejtmag-fakt.pdf">Sejtmag, sejtciklus</a></font></li>
+                      <li><font color="#336699"><a target="_blank" href="http://bioszfera.com/downloads/Sejtvaz.pdf">Sejtváz</a><br></font></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+
+              <li><b><font color="#FFFFFF"><u>5. AZ ÁLLATI ÉS EMBERI SZÖVETEK</u></font></b>
+                <ul class="list-marked-3">
+                  <li><font color="#FF6600"><a target="_blank" href="http://bioszfera.com/downloads/Hamszovet-fakt.pdf">Hámszövetek</a></font></li>
+                  <li><font color="#FF6600"><a target="_blank" href="http://bioszfera.com/downloads/Kotoszovetek-fakt.pdf">Kötőszövetek</a></font></li>
+                  <li><font color="#FF6600"><a target="_blank" href="http://bioszfera.com/downloads/Tamasztoszovetek-fakt.pdf">Támasztószövetek</a></font></li>
+                  <li><font color="#FF6600"><a target="_blank" href="http://bioszfera.com/downloads/Izomszovetek-fakt.pdf">Izomszövetek</a></font></li>
+                  <li><font color="#FF6600"><a target="_blank" href="http://bioszfera.com/downloads/Idegszovetfakt.html">Idegszövet</a></font></li>
+                  <li><font color="#FF6600"><a target="_blank" href="https://drive.google.com/folderview?id=0B15KJwYa2uMFS0RKYk03c2FXTWM&amp;usp=sharing">Szövettani metszetek</a></font></li>
+                </ul>
+              </li>
+
+              <li><b><font color="#FFFFFF"><u>6. AZ EMBER ÖNFENNTARTÓ MŰKÖDÉSEI</u></font></b>
+                <ul class="list-marked-3">
+                  <li><b><font color="#FFFFFF">6.1 Az ember emésztőszervrendszere</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#006666"><a target="_blank" href="http://bioszfera.com/downloads/Emesztes-fakt.pdf">Az ember emésztőszervrendszere</a></font></li>
+                      <li><font color="#006666"><a target="_blank" href="http://bioszfera.com/downloads/Emesztorendszeregeszsegtana.pdf">A táplálkozás egészségtana</a></font></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">6.2 Az ember légzőszervrendszere</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#3333FF"><a target="_blank" href="http://bioszfera.com/downloads/Legzes-fakt.pdf">Az ember légzőszervrendszere</a></font></li>
+                      <li><font color="#3333FF"><a target="_blank" href="http://bioszfera.com/downloads/Legzorendszeregeszsegtana.pdf">és egészségtana<br></a></font></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">6.3 Az emberi keringés szervrendszere</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#CC0000"><a target="_blank" href="http://bioszfera.com/downloads/Ver-fakt.pdf">A vér</a></font></li>
+                      <li><font color="#CC0000"><a target="_blank" href="http://bioszfera.com/downloads/Sziv-fakt.pdf">A szív és az erek<br></a></font></li>
+                      <li><font color="#CC0000"><a target="_blank" href="http://bioszfera.com/downloads/Nyirokrendszer-fakt.pdf">A nyirokrendszer</a></font></li>
+                      <li><font color="#CC0000"><a target="_blank" href="http://bioszfera.com/downloads/Keringesegeszsegtan.pdf">A keringési rendszer egészségtana</a><br></font></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">6.4 Az ember kiválasztó-szervrendszere</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#FFCC00"><a target="_blank" href="http://bioszfera.com/downloads/Kivalasztas-fakt.pdf">Az ember kiválasztó-szervrendszere és egészségtana</a></font><br></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">6.5 A mozgás szervrendszere</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#009999"><a target="_blank" href="http://bioszfera.com/downloads/Mozgas.pdf">A mozgás szervrendszere és egészsé©gtana</a></font></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">6.6 Az emberi bőr</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#FF9966"><a target="_blank" href="http://bioszfera.com/downloads/Bor.pdf">Az emberi bőr és egészségtana</a></font></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+
+              <li><b><font color="#FFFFFF"><u>7. AZ EMBER ÖNSZABÁLYOZÓ MŰKÖDÉSEI</u></font></b>
+                <ul class="list-marked-3">
+                  <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Hormonalis-fakt.pdf">Hormonális szabályozás</a></font>
+                    <ul class="list-marked-3">
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Hormon%20tablazat.pdf">Összefoglaló táblázat</a></font></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">Idegi szabályozás</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Idegszovet-fakt.pdf">Az idegszövet</a></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Gerincvelo-fakt.pdf">A gerincvelő felépítése és működése</a></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Agytorzs-fakt.pdf">Az agytörzs felépítése és működése</a></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Koztiagy-nagyagy-fakt.pdf">A köztiagy és a nagyagy felépítése és működése</a></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Idegrendszermukodese-fakt.pdf">Az idegrendszer vegetatív, érző és mozgató működése</a></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Idegrendszeregeszsegtana.pdf">Az idegrendszer egészségtana</a><br></font></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">Az érzékszervek felépítése és működése</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Szem-fakt.pdf">A látás</a> <br></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Ful-fakt.pdf">A hallás</a></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Szaglas-izerzes-bor-fakt.pdf">A szaglás és ízérzékelés, bőr, mint érzékszerv</a></font></li>
+                    </ul>
+                  </li>
+                  <li><b><font color="#FFFFFF">Genetikai szabályozás</font></b>
+                    <ul class="list-marked-3">
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Genetika1-fakt.pdf">A genetika alapjai</a></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Genetika2-fakt.pdf">Genetika II</a></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Genetikafeladatok2.pdf">Feladatok</a></font></li>
+                      <li><font color="#333366"><a target="_blank" href="http://bioszfera.com/downloads/Genetikafeladatok.pdf">Feladatok-megoldással</a><br></font></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+
+              <li><b><font color="#FFFFFF"><u>8. ÖNREPRODUKCIÓ</u></font></b>
+                <ul class="list-marked-3">
+                  <li><font color="#993333"><a target="_blank" href="http://bioszfera.com/downloads/Szaporodas-fakt.pdf">Az ember szaporító szervrendszere</a></font></li>
+                  <li><font color="#993333"><a target="_blank" href="http://bioszfera.com/downloads/szexualisuton.pdf">Szexuális úton terjedő betegségek</a></font></li>
+                  <li><font color="#993333"><a target="_blank" href="http://bioszfera.com/downloads/Egyedfejlodes-fakt.pdf">Az ember egyedfejlődése</a></font></li>
+                </ul>
+              </li>
+
+              <li><b><font color="#FFFFFF"><u>9. AZ EVOLÚCIÓ</u></font></b>
+                <ul class="list-marked-3">
+                  <li><font color="#003333"><a target="_blank" href="http://bioszfera.com/downloads/Populaciogenetika-fakt.pdf">Populációgenetika, evolúciógenetika</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="http://bioszfera.com/downloads/Populaciogenetikafeladatok.pdf">Feladatok</a><br></font></li>
+                  <li><font color="#003333"><a target="_blank" href="http://bioszfera.com/downloads/Evolucio-fakt.pdf">Fizikai, kémiai, biológiai evolúció</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="http://bioszfera.com/downloads/Emberevolucio-fakt.pdf">Az ember evolúciója</a></font></li>
+                </ul>
+              </li>
+            </ul>              
+          </div>
+  </div>
+        </div>
+      </section>

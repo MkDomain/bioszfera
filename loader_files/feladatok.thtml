@@ -1,0 +1,41 @@
+      <section class="section section-md bg-gray-dark" id="feladatok" data-type="anchor">
+        <div class="container text-center">
+          <br><br><br>
+          <h2>Feladatok</h2>
+          <br>
+  <div id="feladatokshowhide" class="rem-collapse">
+    <br>
+          <div class="body text-left style='margin-left: 40px;'">
+            <ul class="list-marked-3">
+              <li><b><font color="#FFFFFF"><u>1. A BIOLÓGIA ÉRETTSÉGI GYAKORLATI FELADATAI</u></font></b>
+                <ul class="list-marked-3">
+                  <li><font color="#3366CC"><a target="_blank" href="downloads/gyakorlatok.pdf">Gyakorlatok</a></font></li>
+                </ul>
+              </li>
+              <li><b><font color="#FFFFFF"><u>2. SZÁMÍTÁSI FELADATOK</u></font></b>
+                <ul class="list-marked-3">
+                  <li><font color="#003333"><a target="_blank" href="downloads/Szamolas.pdf">Számolás</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Szamolas-megoldas.pdf">Számolás</a></font></li>
+                </ul>
+              </li>
+              <li><b><font color="#FFFFFF"><u>3. GYAKORLÓ FELADATOK</u></font></b>
+                <ul class="list-marked-3">
+                  <li><font color="#003333"><a target="_blank" href="downloads/Novenytan.pdf">Növénytan</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Novenytan-OKTV-I.pdf">Növénytan II</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Allatok.pdf">Állattan</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Sejtbiologia.pdf">Sejtbiológia</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Sejtbiologia-OKTV-I.pdf">Sejtbiológia II</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Szovetek-emesztes-legzes.pdf">Szövettan, emésztés, légzés</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Szovetek-emesztes-legzes-OKTV-I.pdf">Szövetek-emésztés-légzés-II</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Keringes-kivalasztas-mozgas.pdf">Keringés-kiválasztás-mozgás</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Keringes-kivalasztas-mozgas-OKTV-I.pdf">Keringés-kiválasztás-mozgás II</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Szabalyozas.pdf">Szabályozás, szaporodás</a></font></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Genetikafeladatok-I.pdf">Genetika I</a></font><br></li>
+                  <li><font color="#003333"><a target="_blank" href="downloads/Emelt-szobeli-mintatetelek.pdf">Emelt szóbeli mintatételek</a></font><br></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+  </div>
+        </div>
+      </section>

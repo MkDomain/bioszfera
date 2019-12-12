@@ -1,0 +1,29 @@
+	  <section class="section section-md bg-gray-dark text-center" id="hamarnembirod" data-type="anchor">
+        <div class="container">
+          <h2>Ha már nem bírod...</h2>
+            <br>
+  <div id="nembirodshowhide" class="rem-collapse">
+            <br>
+            <div class="row">
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/iPUwtyZglQI"></iframe></div>
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/XbWZ8In9Ois"></iframe></div>
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/cs-XZ_dN4Hc"></iframe></div>
+            </div>
+            <div class="row">
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/Are7HbnJXWk"></iframe></div>
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/EpUs6OFPonQ"></iframe></div>
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/lcrkIjFVQ0Q"></iframe></div>
+            </div>
+            <div class="row">
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/ZcBJdrj5XnA"></iframe></div>
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/pWQjU2GFReI"></iframe></div>
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/nAwDPmalScE"></iframe></div>
+            </div>
+            <div class="row">
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/2A4a3mplXPo"></iframe></div>
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/P-AYAv0IoWI"></iframe></div>
+              <div class="col-sm-4" align="center" style="min-width: 400px"><iframe width="400" height="300" src="https://www.youtube.com/embed/wEQ2X2TAbgU"></iframe></div>
+            </div>
+            <br><br><br><br>		  
+        </div>
+      </section>
